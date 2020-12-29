@@ -16,3 +16,11 @@ Ino file needs to be compiled and uploaded into Arduino via Arduino IDE
 Wiring is simple :
 
 ![Wiring](4x4keyboard.jpg)
+
+Buttons could be created simply in Word or other editor and then printed in right size to fit buttons. 
+Example set is here :
+![Buttons](Buttons.png)
+
+FS2020 mapping :
+
+Keyboard generate keystrokes LEFT SHIFT + RIGHT SHIFT + a..p so you can map them on any functions in your sim, not just what I used for my
