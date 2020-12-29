@@ -11,3 +11,8 @@ soldering iron
 STL for top part of box is located on https://www.thingiverse.com/thing:3011284
 
 Ino file needs to be compiled and uploaded into Arduino via Arduino IDE
+
+
+Wiring is simple :
+
+![Wiring](4x4keyboard.jpg)
